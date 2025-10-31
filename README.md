@@ -37,5 +37,6 @@ Full-Stack Developer (React, DevExtreme, API Integration, .Net Core, SQL Server,
 ## Skills
 .NET Core | SQL Server | SAP B1 | React | DevExtreme | MySQL | API Integration | Background Services | Validation | Error Handling | Reporting
 
+The project is live in production on the company’s internal server (access restricted due to NDA).
 ⚠️ **Note:** The source code for these projects cannot be shared publicly due to company NDA and confidentiality agreements.  
  This README highlights my personal contributions and responsibilities in live projects.
